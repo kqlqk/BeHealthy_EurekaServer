@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <start-class>me.kqlqk.behealthy.eureka.BeHealthyEurekaNamingServerApplication</start-class>
+        <start-class>me.kqlqk.behealthy.eureka.EurekaNamingServerApplication</start-class>
     </properties>
 
     <dependencies>
