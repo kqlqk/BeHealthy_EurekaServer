@@ -12,7 +12,8 @@
 </div>
 
 ## About The Microservice
-Eureka provides communication between BeHealthy services 
+
+Eureka provides communication between BeHealthy services
 
 <b>Devs:</b> <a href="https://github.com/kqlqk">Kqlqk</a> <br/>
 <b>Current version:</b> - <br/>
